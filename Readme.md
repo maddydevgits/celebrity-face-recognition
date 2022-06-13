@@ -3,9 +3,10 @@
 Celebrity Face Recognition is a project using AWS Rekognition to identify the celebrities in the image
 
 # Softwares
-1. VS Code
-2. Python3
-3. AWS Account
+1. VS Code (https://code.visualstudio.com)
+2. Python3 (https://python.org)
+3. Git (https://git-scm.com)
+4. AWS Account
 
 # Packages
 1. pip install boto3
